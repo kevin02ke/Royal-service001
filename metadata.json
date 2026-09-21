@@ -1,0 +1,10 @@
+{
+  "name": "Remix Royal Services",
+  "description": "Earn daily returns on investments with instant payouts, flexible contract management, and a multi-tier referral bonus system.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
